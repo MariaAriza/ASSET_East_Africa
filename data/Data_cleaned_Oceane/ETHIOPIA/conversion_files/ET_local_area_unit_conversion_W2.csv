@@ -1,0 +1,260 @@
+"","region","zonename","zone","woredaname","woreda","local_unit","conversion"
+"1",1,"North Western Tigray",1,"Tahitay Adiyabo",1,3,1310.83203125
+"2",1,"North Western Tigray",1,"Laelay Adiabo",2,3,1801.46801757812
+"3",1,"North Western Tigray",1,"Medebay Zana",3,3,1801.46801757812
+"4",1,"North Western Tigray",1,"Asegede Tsimbila",5,3,1310.83203125
+"5",1,"North Western Tigray",1,"Tselemt",6,3,1310.83203125
+"6",1,"Central Tigray",2,"Mereb Leha",1,3,1617.37194824219
+"7",1,"Central Tigray",2,"Ahiferom",2,3,2428.77197265625
+"8",1,"Central Tigray",2,"Wereilehi",3,3,2428.77197265625
+"9",1,"Central Tigray",2,"Adwa",4,3,2428.77197265625
+"10",1,"Central Tigray",2,"Tahitay Maychew",6,3,1617.37194824219
+"11",1,"Central Tigray",2,"NADER ADET",7,3,2428.77197265625
+"12",1,"Central Tigray",2,"Kola Temben",8,3,2428.77197265625
+"13",1,"Central Tigray",2,"Degua Temben",9,3,2428.77197265625
+"14",1,"Eastern Tigray",3,"Gulo Meheda",1,3,1774.25402832031
+"15",1,"Eastern Tigray",3,"Saesi Tsadamba",3,3,1774.25402832031
+"16",1,"Eastern Tigray",3,"Ganta Afeshum",4,3,2458.05810546875
+"17",1,"Eastern Tigray",3,"Hawzen",5,3,2458.05810546875
+"18",1,"Eastern Tigray",3,"Atsbi Wonberta",7,3,1774.25402832031
+"19",1,"South Tigray",4,"Seharti Samre",1,3,1978.38305664062
+"20",1,"South Tigray",4,"Hintalo Wajirat",3,3,2214.912109375
+"21",1,"South Tigray",4,"Ambalage",4,3,1978.38305664062
+"22",1,"South Tigray",4,"Endamehone",5,3,2214.912109375
+"23",1,"South Tigray",4,"Rya Azebo",6,3,1978.38305664062
+"24",1,"South Tigray",4,"Ofla",8,3,2214.912109375
+"25",1,"Western Tigray",5,"Qafta Humera",1,3,1310.83203125
+"26",1,"Western Tigray",5,"Welqayet",2,3,1801.46801757812
+"27",1,"Western Tigray",5,"Tsegede",3,3,1310.83203125
+"28",3,"North Gondar",1,"Adiarikay",1,3,1333.09497070312
+"29",3,"North Gondar",1,"Debark",4,3,2183.88598632812
+"30",3,"North Gondar",1,"Lay Armachew",8,3,2807.50610351562
+"31",3,"North Gondar",1,"Gondar Zuriya",10,3,2183.88598632812
+"32",3,"North Gondar",1,"DEMBIA",11,3,2183.88598632812
+"33",3,"North Gondar",1,"Chilga",12,3,2807.50610351562
+"34",3,"North Gondar",1,"Quara",14,3,2807.50610351562
+"35",3,"North Gondar",1,"Merab Belesa",16,3,2183.88598632812
+"36",3,"South Gondar",2,"Ebinat",1,3,1767.791015625
+"37",3,"South Gondar",2,"Libokemkem",2,3,2620.80688476562
+"38",3,"South Gondar",2,"Fogera",3,3,2620.80688476562
+"39",3,"South Gondar",2,"Farta",4,3,2620.80688476562
+"40",3,"South Gondar",2,"Lay Gayint",5,3,1767.791015625
+"41",3,"South Gondar",2,"Simada",7,3,1767.791015625
+"42",3,"South Gondar",2,"Dera",9,3,2620.80688476562
+"43",3,"North Wollo",3,"Bugna",1,3,1511.72497558594
+"44",3,"North Wollo",3,"Kobo",2,3,1594.55004882812
+"45",3,"North Wollo",3,"Gidan",3,3,1511.72497558594
+"46",3,"North Wollo",3,"Meket",4,3,1594.55004882812
+"47",3,"North Wollo",3,"Wadla",5,3,1594.55004882812
+"48",3,"North Wollo",3,"Guba Lafto",7,3,1594.55004882812
+"49",3,"North Wollo",3,"Habru",8,3,1511.72497558594
+"50",3,"South Wolo",4,"Kutaber",3,3,1376.97705078125
+"51",3,"South Wolo",4,"Werebabo",6,3,1376.97705078125
+"52",3,"South Wolo",4,"Kalu",7,3,2004.04797363281
+"53",3,"South Wolo",4,"Dese Zuriya",9,3,2004.04797363281
+"54",3,"South Wolo",4,"Sayinit",11,3,2004.04797363281
+"55",3,"SOUTH WOLO",4,"DEBRESINA",12,3,1376.97705078125
+"56",3,"South Wolo",4,"Jama",14,3,2004.04797363281
+"57",3,"South Wolo",4,"WOGIDI",16,3,2004.04797363281
+"58",3,"North Shewa",5,"Mida Oromo",1,3,1875.5400390625
+"59",3,"North Shewa",5,"Moretna Juru",4,3,2500.30004882812
+"60",3,"North Shewa",5,"Antsokiya Gemza",7,3,1875.5400390625
+"61",3,"North Shewa",5,"MENZ MAMA MIDIR",9,3,2203.39501953125
+"62",3,"North Shewa",5,"Mojana Wedera",11,3,2203.39501953125
+"63",3,"North Shewa",5,"Angolelana Tera",13,3,2500.30004882812
+"64",3,"North Shewa",5,"Ankober",15,3,1875.5400390625
+"65",3,"East Gojjam",6,"Huletej Enese",2,3,1826.95300292969
+"66",3,"East Gojjam",6,"Gonchasiso enese",3,3,1826.95300292969
+"67",3,"East Gojjam",6,"Enebise Sar Midir",4,3,1172.44396972656
+"68",3,"East Gojjam",6,"Enemay",6,3,2246.64111328125
+"69",3,"East Gojjam",6,"Machakel",9,3,2246.64111328125
+"70",3,"East Gojjam",6,"Gozamin",10,3,2246.64111328125
+"71",3,"East Gojjam",6,"Baso Liben",11,3,1826.95300292969
+"72",3,"East Gojjam",6,"SHEBEL BERENTA",14,3,1172.44396972656
+"73",3,"West Gojjam",7,"North Achefer",1,3,1253.51696777344
+"74",3,"West Gojjam",7,"Yilmana Densa",3,3,2690.61303710938
+"75",3,"West Gojjam",7,"Sekela",5,3,2690.61303710938
+"76",3,"West Gojjam",7,"Dembecha",8,3,1253.51696777344
+"77",3,"West Gojjam",7,"Bure",10,3,2690.61303710938
+"78",3,"West Gojjam",7,"South Achefer",13,3,1253.61303710938
+"79",3,"Wag Himra",8,"Sekota",2,3,1149.0439453125
+"80",3,"Wag Himra",8,"Dehena",3,3,1149.0439453125
+"81",3,"Wag Himra",8,"GAZGIBILA",4,3,1149.0439453125
+"82",3,"Awi",9,"Dangila",1,3,2363.294921875
+"83",3,"Awi",9,"Banja Shekudad",2,3,2363.294921875
+"84",3,"Awi",9,"Guangua",4,3,2363.294921875
+"85",3,"Awi",9,"Fagita Lekoma",5,3,2363.294921875
+"86",3,"Oromiya",10,"Dawa Chefa",1,3,1580.24401855469
+"87",3,"Oromiya",10,"Bati",2,3,1580.24401855469
+"88",3,"Oromiya",10,"Artuma Fursi",4,3,1580.24401855469
+"89",4,"West Wellega",1,"Mene Sibu",1,3,950.575988769531
+"90",4,"West Wellega",1,"Gibnbi",3,3,950.575988769531
+"91",4,"West Wellega",1,"Gibnbi",3,5,1112.93005371094
+"92",4,"West Wellega",1,"Boji Dermeji",6,3,950.575988769531
+"93",4,"West Wellega",1,"Boji Dermeji",6,5,1478.54504394531
+"94",4,"West Wellega",1,"Genji",13,3,1130.19104003906
+"95",4,"West Wellega",1,"Genji",13,5,1112.93005371094
+"96",4,"West Wellega",1,"Haru",14,3,1130.19104003906
+"97",4,"West Wellega",1,"Haru",14,5,1112.93005371094
+"98",4,"West Wellega",1,"Seyo Nole",18,3,1421.94104003906
+"99",4,"West Wellega",1,"Seyo Nole",18,5,1478.54504394531
+"100",4,"East Wellega",2,"Limu",4,3,1269.44604492188
+"101",4,"East Wellega",2,"Diga",10,3,1269.44604492188
+"102",4,"East Wellega",2,"Diga",10,5,1503.67602539062
+"103",4,"East Wellega",2,"Sasiga",11,3,837.241027832031
+"104",4,"East Wellega",2,"Sasiga",11,5,494.941986083984
+"105",4,"East Wellega",2,"Leka Dulecha",12,3,1269.44604492188
+"106",4,"East Wellega",2,"Jimma Arjo",14,3,1269.44604492188
+"107",4,"East Wellega",2,"Jimma Arjo",14,5,1503.67602539062
+"108",4,"Ilu Aba Bora",3,"Chora",3,3,1142.52697753906
+"109",4,"Ilu Aba Bora",3,"DEDESA",8,3,1142.52697753906
+"110",4,"Ilu Aba Bora",3,"DEDESA",8,5,1099.92602539062
+"111",4,"Ilu Aba Bora",3,"Becho",14,4,1140.64794921875
+"112",4,"Ilu Aba Bora",3,"Bedele",22,3,1142.52697753906
+"113",4,"Ilu Aba Bora",3,"Bedele",22,5,1099.92602539062
+"114",4,"Jimma",4,"Limu Seka",1,3,1135.48706054688
+"115",4,"Jimma",4,"Limu Seka",1,5,1086.0009765625
+"116",4,"Jimma",4,"Tiro Afeta",4,3,948.953979492188
+"117",4,"Jimma",4,"Tiro Afeta",4,5,1086.0009765625
+"118",4,"Jimma",4,"Kerisa",5,3,796.755981445312
+"119",4,"Jimma",4,"Kerisa",5,5,903.593017578125
+"120",4,"Jimma",4,"Goma",7,3,948.953979492188
+"121",4,"Jimma",4,"Goma",7,5,903.593017578125
+"122",4,"Jimma",4,"Dedo",10,3,796.755981445312
+"123",4,"Jimma",4,"Dedo",10,5,903.593017578125
+"124",4,"Jimma",4,"SIGAMO",12,3,1135.48706054688
+"125",4,"Jimma",4,"SIGAMO",12,5,1086.0009765625
+"126",4,"West Shewa",5,"Ambo",3,3,1488.4169921875
+"127",4,"West Shewa",5,"Nono",8,3,1488.4169921875
+"128",4,"WEST SHEWA",5,"WOLMERA",12,6,1300.7080078125
+"129",4,"West Shewa",5,"Adea Berga",13,6,1300.7080078125
+"130",4,"North Shewa",6,"Were Jarso",1,3,1160.51000976562
+"131",4,"North Shewa",6,"Degem",5,3,1160.51000976562
+"132",4,"North Shewa",6,"Bereh",11,3,2105.31494140625
+"133",4,"East Shewa",7,"Fentale",1,3,2577.79296875
+"134",4,"East Shewa",7,"Fentale",1,4,205.947006225586
+"135",4,"East Shewa",7,"Fentale",1,6,2483.07592773438
+"136",4,"East Shewa",7,"Lomme",4,3,2577.79296875
+"137",4,"East Shewa",7,"Lomme",4,4,155.343002319336
+"138",4,"East Shewa",7,"Lomme",4,6,2860.17504882812
+"139",4,"East Shewa",7,"Ada'a",6,3,2577.79296875
+"140",4,"East Shewa",7,"Ada'a",6,4,155.343002319336
+"141",4,"East Shewa",7,"Ada'a",6,6,2483.07592773438
+"142",4,"East Shewa",7,"Dugda",7,3,2274.61889648438
+"143",4,"East Shewa",7,"Dugda",7,4,155.343002319336
+"144",4,"East Shewa",7,"Dugda",7,6,2483.07592773438
+"145",4,"East Shewa",7,"Akaki",12,4,205.947006225586
+"146",4,"East Shewa",7,"Akaki",12,6,2860.17504882812
+"147",4,"Arsi",8,"Zeway Dugda",6,3,2447.19702148438
+"148",4,"Arsi",8,"Zeway Dugda",6,4,122.877998352051
+"149",4,"Arsi",8,"AMIGNA",10,3,2447.19702148438
+"150",4,"Arsi",8,"AMIGNA",10,4,205.339004516602
+"151",4,"Arsi",8,"Robe",12,3,2447.19702148438
+"152",4,"Arsi",8,"Robe",12,4,155.009002685547
+"153",4,"Arsi",8,"Digelona tijo",15,3,2447.19702148438
+"154",4,"Arsi",8,"Digelona tijo",15,4,122.877998352051
+"155",4,"Arsi",8,"Munesa",17,3,2447.19702148438
+"156",4,"Arsi",8,"Munesa",17,4,122.877998352051
+"157",4,"West Hararge",9,"Meiso",1,3,937.473999023438
+"158",4,"West Hararge",9,"Meiso",1,4,167.70100402832
+"159",4,"West Hararge",9,"Guba Qoricha",7,3,750.966979980469
+"160",4,"West Hararge",9,"Guba Qoricha",7,4,126.660003662109
+"161",4,"West Hararge",9,"DARO LEBU",9,3,750.966979980469
+"162",4,"West Hararge",9,"DARO LEBU",9,4,126.660003662109
+"163",4,"West Hararge",9,"Boke",10,3,750.966979980469
+"164",4,"West Hararge",9,"Boke",10,4,167.70100402832
+"165",4,"West Hararge",9,"CHIRO ZURIYA",13,3,750.966979980469
+"166",4,"West Hararge",9,"CHIRO ZURIYA",13,4,126.660003662109
+"167",4,"East Hararge",10,"Fedis",5,3,736.544006347656
+"168",4,"East Hararge",10,"Meta",9,3,590.0830078125
+"169",4,"East Hararge",10,"Meta",9,4,118.414001464844
+"170",4,"East Hararge",10,"Bedeno",13,3,736.544006347656
+"171",4,"East Hararge",10,"Bedeno",13,4,118.414001464844
+"172",4,"EAST HARARGE",10,"GIRAWA",16,3,736.544006347656
+"173",4,"Bale",11,"GINNIR",8,3,1595.81005859375
+"174",4,"Bale",11,"GINNIR",8,4,169.440994262695
+"175",4,"Bale",11,"GORO",16,3,1595.81005859375
+"176",4,"Bale",11,"GORO",16,4,169.440994262695
+"177",4,"BALE",11,"SEWEYNA",18,3,1195.36596679688
+"178",4,"BALE",11,"SEWEYNA",18,4,117.925003051758
+"179",4,"Borena",12,"Dire",11,3,1213.52905273438
+"180",4,"Borena",12,"Dire",11,4,254.718994140625
+"181",4,"South West Shewa",13,"Wonchi",2,3,1488.4169921875
+"182",4,"South West Shewa",13,"Wonchi",2,4,615.815979003906
+"183",4,"South West Shewa",13,"Elu",5,3,2515.333984375
+"184",4,"South West Shewa",13,"Elu",5,4,1140.64794921875
+"185",4,"South West Shewa",13,"Becho",9,4,1140.64794921875
+"186",4,"South West Shewa",13,"Goro",12,3,1488.4169921875
+"187",4,"South West Shewa",13,"Goro",12,4,1140.64794921875
+"188",4,"Guji",14,"Bore",2,3,1213.52905273438
+"189",4,"Guji",14,"Bore",2,4,254.718994140625
+"190",4,"Guji",14,"Odo Shakiso",5,3,1213.52905273438
+"191",4,"West Arsi",17,"Arsi Negele",3,3,2577.79296875
+"192",4,"West Arsi",17,"Arsi Negele",3,4,155.343002319336
+"193",4,"West Arsi",17,"Arsi Negele",3,6,2483.07592773438
+"194",4,"West Arsi",17,"Dodola",7,3,2395.88305664062
+"195",4,"West Arsi",17,"Dodola",7,4,117.925003051758
+"196",4,"West Arsi",17,"Shashemene",12,3,2274.61889648438
+"197",4,"West Arsi",17,"Shashemene",12,4,155.343002319336
+"198",4,"West Arsi",17,"Shashemene",12,6,764.366027832031
+"199",4,"Qeleme Wellega",18,"Anfilo",7,3,1130.19104003906
+"200",4,"Qeleme Wellega",18,"Anfilo",7,5,1112.93005371094
+"201",4,"Horo Gudru Wellega",19,"Horo",1,3,2079.56909179688
+"202",4,"Horo Gudru Wellega",19,"Hababo Guduru",4,3,2772.96899414062
+"203",4,"Horo Gudru Wellega",19,"Hababo Guduru",4,5,2480.7509765625
+"204",4,"Horo Gudru Wellega",19,"JARTE JARDGA",8,3,2079.56909179688
+"205",5,"Shinile",1,"Shinile",3,3,1093.5
+"206",5,"Shinile",1,"Erer",4,3,981.369995117188
+"207",5,"Jijjiga",2,"Gursum",2,3,590.0830078125
+"208",5,"Jijjiga",2,"Jijjiga",4,4,172.020004272461
+"209",5,"Jijjiga",2,"Qebri Beyah",6,4,172.020004272461
+"210",5,"Liben",9,"Filtu",1,3,1269.21997070312
+"211",5,"Liben",9,"Moyale",3,3,1021.82000732422
+"212",6,"Metekel",2,"Mandura",4,3,1933
+"213",6,"Metekel",2,"Bulon",7,3,1839
+"214",6,"Assosa",3,"Mengie",1,6,843
+"215",6,"Assosa",3,"Assosa",3,3,1270
+"216",6,"Assosa",3,"Bambis",5,3,1270
+"217",6,"Kamashi",4,"Belojegenfoy",5,3,1277.14001464844
+"218",6,"Mao komo",6,"Mao komo",8,3,1270
+"219",7,"Hadiya",2,"MISRAK BADAWOCHO",5,3,1835.21997070312
+"220",7,"Kembata Timbaro",3,"Anigacha",2,3,1852.47204589844
+"221",7,"Kembata Timbaro",3,"Kacha Bira",4,3,1852.47204589844
+"222",7,"Sidama",4,"Shebedino",1,3,1046.21398925781
+"223",7,"Sidama",4,"Dale",4,3,933.263977050781
+"224",7,"Sidama",4,"Dara",6,3,1046.21398925781
+"225",7,"Sidama",4,"ARORESA",9,3,1046.21398925781
+"226",7,"Wolayita",6,"DAMOT GALE",2,3,1169.10498046875
+"227",7,"WOLAYITA",6,"DAMOT WOYIDE",3,3,1169.10498046875
+"228",7,"Wolayita",6,"Sodo Zuriya",5,3,1169.10498046875
+"229",7,"Wolayita",6,"OFA",7,3,2326.10498046875
+"230",7,"South Omo",7,"Selamago",1,3,1086.77404785156
+"231",7,"South Omo",7,"GELILA",3,3,1086.77404785156
+"232",7,"Sheka",8,"Masha",1,3,1146.85998535156
+"233",7,"Sheka",8,"YEKI",3,3,1146.85998535156
+"234",7,"Kefa",9,"Gesha",2,3,1136.95300292969
+"235",7,"Kefa",9,"Menjwo",5,3,1068.61804199219
+"236",7,"KEFA",9,"TULO",6,3,1136.95300292969
+"237",7,"Kefa",9,"Cheta",7,3,1068.61804199219
+"238",7,"Kefa",9,"CHENA",9,3,1068.61804199219
+"239",7,"Gamo Gofa",10,"Melekoza",1,3,1462.92004394531
+"240",7,"Gamo Gofa",10,"Kucha",3,3,1462.92004394531
+"241",7,"Gamo Gofa",10,"Ariba Minichi Zuriya",6,3,1157.30895996094
+"242",7,"Gamo Gofa",10,"DITA",8,3,1157.30895996094
+"243",7,"Gamo Gofa",10,"Deramalo",9,3,1157.30895996094
+"244",7,"Gamo Gofa",10,"KEMBA",12,3,941.570007324219
+"245",7,"Bench Maji",11,"Sheko",1,3,992.577026367188
+"246",7,"Bench Maji",11,"Southern Bench",3,3,992.577026367188
+"247",7,"Bench Maji",11,"Shay Bench",4,3,992.577026367188
+"248",7,"Bench Maji",11,"MEANT GOLDIYA",5,3,992.577026367188
+"249",7,"Amaro Special",13,"Amaro Special Wereda",1,3,1013.86499023438
+"250",7,"Burji Special",14,"Burji Special",1,3,1044.51403808594
+"251",7,"Konso Special",15,"Konso Special",1,3,1013.12902832031
+"252",7,"Derashe Lyiu Wereda",16,"Derashe Special",1,3,834.017028808594
+"253",7,"Basketo",18,"Basketo",1,3,936.411010742188
+"254",7,"Alaba",21,"Alaba",1,3,1852.47204589844
+"255",12,"Agnewak",1,"Abobo",2,3,1042.53503417969
+"256",12,"Mejenger",3,"Godere",1,3,1042.53503417969
+"257",13,"None",1,"Hundene",1,3,570
+"258",13,"None",1,"Hundene",1,4,140
+"259",15,"None",1,"Gurgura",2,3,1051.0830078125

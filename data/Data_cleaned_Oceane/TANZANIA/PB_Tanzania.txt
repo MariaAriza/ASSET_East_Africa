@@ -1,0 +1,3 @@
+- Problème au moment d'ordonner les variables dans le script à cause de :
+	- variables decisionmaker_input conservées dans les métadonnées alors que supprimées du fichier "rename_vars_Tanzania" (à supprimer des métadonnées pour que ça fonctionne)
+	- problèmes avec les variables issues des fichiers sur les points GPS et les variables géographiques (régions, districts, etc.)
